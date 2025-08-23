@@ -1,0 +1,12 @@
+.aa{
+    height: 95vh;
+        
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT34Qbyd_P9gjEmv5WRFTzpExFO9PH-NEBLq33lqDiNhDbqlnW0_DPLvBX51k-sRDbdFK1rcEuTMN39v6Qt4kPiR8UqcBTlCI9eFrpbbgxhVg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+     background-size: cover;
+}
