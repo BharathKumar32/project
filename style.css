@@ -4,12 +4,15 @@
     color: white;
     gap: 20px; 
     background-color:rgb(62, 64, 60) ;
-       width: 95vw;
+       width: 100vw;
       
 }
 .aaa {
     text-decoration: none;
 } 
+.child{
+    padding-right: 25px;
+}
 
 .parent{
     position: fixed;
