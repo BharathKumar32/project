@@ -1,0 +1,48 @@
+.cal{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    margin-top: 30px ;
+}
+.calculator{
+    text-align:center;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+}
+body{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   background-image: linear-gradient(to right top,green,red);
+  }
+#cov{
+     height: 3rem;
+     width: 100%;
+     border: none;
+     outline: none;
+     padding-right: 10px; 
+     font-size: 30px;
+     text-align: right;
+}
+button{
+    font-size: 30px;
+    background-color: rgb(210, 200, 185);
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.add{
+    background-color: orange;
+}
